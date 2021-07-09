@@ -1,0 +1,13 @@
+C:\Users\Client 6.2021 SSD\source\repos\PickCards\obj\Debug\netcoreapp3.1\PickCards.csproj.AssemblyReference.cache
+C:\Users\Client 6.2021 SSD\source\repos\PickCards\obj\Debug\netcoreapp3.1\PickCards.AssemblyInfoInputs.cache
+C:\Users\Client 6.2021 SSD\source\repos\PickCards\obj\Debug\netcoreapp3.1\PickCards.AssemblyInfo.cs
+C:\Users\Client 6.2021 SSD\source\repos\PickCards\obj\Debug\netcoreapp3.1\PickCards.csproj.CoreCompileInputs.cache
+C:\Users\Client 6.2021 SSD\source\repos\PickCards\bin\Debug\netcoreapp3.1\PickCards.exe
+C:\Users\Client 6.2021 SSD\source\repos\PickCards\bin\Debug\netcoreapp3.1\PickCards.deps.json
+C:\Users\Client 6.2021 SSD\source\repos\PickCards\bin\Debug\netcoreapp3.1\PickCards.runtimeconfig.json
+C:\Users\Client 6.2021 SSD\source\repos\PickCards\bin\Debug\netcoreapp3.1\PickCards.runtimeconfig.dev.json
+C:\Users\Client 6.2021 SSD\source\repos\PickCards\bin\Debug\netcoreapp3.1\PickCards.dll
+C:\Users\Client 6.2021 SSD\source\repos\PickCards\bin\Debug\netcoreapp3.1\PickCards.pdb
+C:\Users\Client 6.2021 SSD\source\repos\PickCards\obj\Debug\netcoreapp3.1\PickCards.dll
+C:\Users\Client 6.2021 SSD\source\repos\PickCards\obj\Debug\netcoreapp3.1\PickCards.pdb
+C:\Users\Client 6.2021 SSD\source\repos\PickCards\obj\Debug\netcoreapp3.1\PickCards.genruntimeconfig.cache
